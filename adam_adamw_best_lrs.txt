@@ -1,0 +1,8 @@
+Adam Learning rate: 0.01, Validation accuracy: 76.14
+Adam Learning rate: 0.001, Validation accuracy: 79.08
+Adam Learning rate: 0.0003, Validation accuracy: 73.14
+Best Adam learning rate: 0.001
+AdamW Learning rate: 0.01, Validation accuracy: 76.6
+AdamW Learning rate: 0.001, Validation accuracy: 78.8
+AdamW Learning rate: 0.0003, Validation accuracy: 73.98
+Best AdamW learning rate: 0.001

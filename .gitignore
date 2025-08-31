@@ -1,0 +1,8 @@
+__pycache__
+data
+experiment_results
+lr_tuning_results
+experiment_results_aug
+experiment_results_aug_cifar100
+adacurve_lr_finding
+temp

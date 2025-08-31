@@ -1,0 +1,4 @@
+Adahessian best: 0.15
+Adacurve best: 0.01
+Adamw best: 0.001
+Adam best: 0.001
